@@ -1,8 +1,7 @@
 ### Oiii, sou o Henrique Teles 👋
 
-- 🔭 Em busca de ingressar na área novamente.
-- 💡Conhecimento: Support Analyst | Analyst System Senior | SQL | MongoDB | Port System (Navis, Nevada, Gerencial)
 - 🌱 Estudando FULL STACK (Front-end, Back-end, JavaScript e Desenvolvimento WEB)
+- 💡Conhecimento: Support Analyst | Analyst System Senior | SQL | MongoDB | Port System (Navis, Nevada, Gerencial)
 - 😄 Pronouns: ele/dele
 
 ##
