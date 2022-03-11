@@ -1,7 +1,8 @@
 ### Oiii, sou o Henrique Teles 👋
 
+- 🔐  Mergulhando e obtendo cada vez mais conhecimnentos na área de Segurança da Informação (I love Ethical Hacking 💻)
 - 🌱  Estudando FULL STACK (Front-end, Back-end, JavaScript e Desenvolvimento WEB)
-- 💡   Conhecimento: Support Analyst | Analyst System Senior | SQL | MongoDB | Port System (Navis, Nevada, Gerencial)
+- 💡  Conhecimento: Information Security Professional | Support Analyst | SQL | Back End | Port System (Navis, Nevada, Gerencial)
 - 😄  Pronouns: ele/dele
 
 ##
