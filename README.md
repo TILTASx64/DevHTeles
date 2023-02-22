@@ -1,9 +1,12 @@
 ### Oiii, sou o Henrique Teles 👋
 
--🔐 Entusiasta em Segurança da Informação (Love Ethical Hacking 💻)
--🌱 Python is life 🐍
--💡 Python | Programming | Office 365 Administrator | Cybersecurity Analyst | Network Analyst
--😄 Pronouns: ele/dele
+ -🔐 Entusiasta em Segurança da Informação (Love Ethical Hacking 💻) 
+ 
+ -🌱 Python is life 🐍
+ 
+ -💡 Python | Programming | Office 365 Administrator | Cybersecurity Analyst | Network Analyst
+ 
+ -😄 Pronouns: ele/dele
 
 ##
 
