@@ -4,7 +4,7 @@
  
  -🌱 Python is life 🐍
  
- -💡 Python | Programming | Office 365 Administrator | Cybersecurity Analyst | Network Analyst
+ -💡 Python | Cybersecurity Analyst | Scanner | CVE Analysis | Programming | Office 365 Administrator | Network Analyst
  
  -😄 Pronouns: ele/dele
 
