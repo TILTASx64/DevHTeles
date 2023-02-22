@@ -1,4 +1,4 @@
-### Oiii, sou o José Henrique 👋
+### Olááa, sou o José Henrique 👋
 
  -🔐 Entusiasta em Segurança da Informação (Love Ethical Hacking 💻) 
  
