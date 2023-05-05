@@ -2,7 +2,7 @@
 
  -🔐 Entusiasta por tecnologia 🚀💻
  
- -💡 Programming | JS / .py🐍 | Cybersecurity Analyst
+ -💡 Programming | Cybersecurity Analyst
  
  -😄 Pronouns: ele/dele
 
