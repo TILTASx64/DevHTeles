@@ -1,4 +1,4 @@
-### Olááa, sou o J. Henrique Teles 👋
+### Olááa, sou o  J. Henrique Teles 👋
 
  -🔐 Entusiasta por tecnologia 🚀💻
  
